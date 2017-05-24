@@ -20,5 +20,9 @@
     "globals": {
       "navigator": true,
       "fetch": false
-    }
+    },
+    "env": {
+      "node": true,
+      "browser": true
+    },
 }
